@@ -1,6 +1,6 @@
 // Offline support: keeps the app and its photos on the device.
 // Bump VERSION whenever index.html or the photos change.
-const VERSION = "fitme-v2";
+const VERSION = "fitme-v3";
 const SHELL = [
   "./",
   "index.html",
